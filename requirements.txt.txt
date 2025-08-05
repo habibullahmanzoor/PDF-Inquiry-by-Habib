@@ -1,8 +1,5 @@
-gradio>=4.44
-langchain>=0.3
-langchain-chroma>=0.1
-langchain-ollama>=0.1
-chromadb>=0.5
-pypdf>=4
-fuzzywuzzy>=0.18
-python-levenshtein>=0.25
+gradio==5.41.0
+langchain==0.3.27
+langchain_chroma==0.2.5
+langchain_community==0.3.27
+langchain_ollama==0.3.6
